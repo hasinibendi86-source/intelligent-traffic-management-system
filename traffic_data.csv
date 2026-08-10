@@ -1,0 +1,222 @@
+vehicle_count,average_speed,hour,day_of_week,weather,previous_congestion,congestion
+58,37,20,Monday,Clear,LOW,LOW
+24,32,23,Monday,Rain,LOW,LOW
+12,60,1,Monday,Clear,LOW,LOW
+85,5,17,Tuesday,Rain,LOW,MEDIUM
+117,8,18,Wednesday,Fog,MEDIUM,MEDIUM
+41,55,22,Thursday,Clear,MEDIUM,LOW
+83,30,10,Monday,Clear,LOW,LOW
+87,10,19,Wednesday,Fog,LOW,MEDIUM
+29,33,12,Monday,Clear,MEDIUM,LOW
+39,44,11,Friday,Clear,LOW,LOW
+99,9,9,Monday,Fog,LOW,MEDIUM
+27,50,14,Saturday,Fog,MEDIUM,LOW
+17,30,21,Wednesday,Rain,LOW,LOW
+17,39,5,Friday,Rain,LOW,LOW
+8,64,22,Friday,Clear,LOW,LOW
+15,41,1,Tuesday,Fog,LOW,LOW
+3,40,2,Tuesday,Heavy Rain,LOW,LOW
+74,20,20,Thursday,Clear,LOW,LOW
+79,21,8,Tuesday,Clear,LOW,LOW
+81,25,18,Thursday,Fog,LOW,LOW
+11,34,4,Friday,Clear,LOW,LOW
+3,44,4,Saturday,Clear,LOW,LOW
+8,53,12,Thursday,Clear,LOW,LOW
+86,5,17,Sunday,Heavy Rain,LOW,MEDIUM
+102,7,8,Sunday,Rain,MEDIUM,MEDIUM
+8,61,0,Saturday,Fog,MEDIUM,LOW
+18,27,5,Friday,Heavy Rain,LOW,LOW
+53,37,16,Friday,Clear,LOW,LOW
+52,34,16,Monday,Clear,LOW,LOW
+20,52,11,Sunday,Fog,LOW,LOW
+84,21,18,Monday,Clear,LOW,LOW
+70,10,17,Sunday,Clear,LOW,LOW
+3,40,5,Wednesday,Clear,LOW,LOW
+93,9,17,Sunday,Rain,LOW,MEDIUM
+52,33,20,Wednesday,Clear,MEDIUM,LOW
+50,31,7,Monday,Clear,LOW,LOW
+52,29,7,Monday,Clear,LOW,LOW
+3,53,1,Sunday,Clear,LOW,LOW
+14,33,15,Tuesday,Clear,LOW,LOW
+74,26,18,Thursday,Clear,LOW,LOW
+3,55,3,Monday,Rain,LOW,LOW
+32,36,21,Saturday,Heavy Rain,LOW,LOW
+3,52,3,Tuesday,Clear,LOW,LOW
+14,47,5,Wednesday,Clear,LOW,LOW
+118,7,17,Monday,Clear,LOW,MEDIUM
+18,55,2,Sunday,Fog,MEDIUM,LOW
+33,44,6,Sunday,Clear,LOW,LOW
+22,26,12,Wednesday,Heavy Rain,LOW,LOW
+23,51,21,Saturday,Clear,LOW,LOW
+22,43,1,Friday,Rain,LOW,LOW
+95,13,18,Thursday,Clear,LOW,LOW
+65,30,16,Monday,Fog,LOW,LOW
+68,23,7,Thursday,Clear,LOW,LOW
+72,18,19,Monday,Rain,LOW,MEDIUM
+57,26,10,Wednesday,Clear,MEDIUM,LOW
+15,49,12,Tuesday,Rain,LOW,LOW
+3,39,0,Thursday,Rain,LOW,LOW
+48,29,6,Friday,Clear,LOW,LOW
+42,41,7,Wednesday,Clear,LOW,LOW
+96,5,9,Friday,Heavy Rain,LOW,MEDIUM
+114,10,17,Wednesday,Heavy Rain,MEDIUM,MEDIUM
+16,45,3,Monday,Rain,MEDIUM,LOW
+12,45,22,Wednesday,Clear,LOW,LOW
+23,31,15,Wednesday,Heavy Rain,LOW,LOW
+92,6,8,Monday,Clear,LOW,LOW
+74,17,8,Tuesday,Rain,LOW,MEDIUM
+6,43,3,Monday,Heavy Rain,MEDIUM,LOW
+16,49,11,Friday,Clear,LOW,LOW
+33,28,11,Sunday,Heavy Rain,LOW,LOW
+65,12,7,Saturday,Clear,LOW,LOW
+29,33,13,Friday,Rain,LOW,LOW
+8,44,5,Thursday,Clear,LOW,LOW
+18,34,13,Sunday,Rain,LOW,LOW
+36,42,22,Monday,Clear,LOW,LOW
+3,57,6,Sunday,Heavy Rain,LOW,LOW
+50,32,7,Monday,Rain,LOW,LOW
+55,33,8,Wednesday,Rain,LOW,LOW
+69,26,10,Monday,Clear,LOW,LOW
+67,33,8,Monday,Clear,LOW,LOW
+45,22,10,Thursday,Rain,LOW,LOW
+3,57,6,Wednesday,Clear,LOW,LOW
+88,5,17,Saturday,Rain,LOW,MEDIUM
+38,19,13,Monday,Heavy Rain,MEDIUM,LOW
+3,43,3,Saturday,Heavy Rain,LOW,LOW
+30,48,12,Saturday,Clear,LOW,LOW
+28,42,12,Saturday,Rain,LOW,LOW
+86,28,17,Sunday,Clear,LOW,LOW
+74,19,18,Friday,Rain,LOW,MEDIUM
+83,5,16,Thursday,Rain,MEDIUM,LOW
+3,48,2,Wednesday,Clear,LOW,LOW
+62,25,7,Saturday,Clear,LOW,LOW
+3,32,1,Tuesday,Heavy Rain,LOW,LOW
+17,40,13,Saturday,Clear,LOW,LOW
+7,36,12,Tuesday,Clear,LOW,LOW
+26,62,3,Sunday,Clear,LOW,LOW
+60,46,16,Thursday,Clear,LOW,LOW
+3,33,14,Tuesday,Fog,LOW,LOW
+106,5,19,Wednesday,Heavy Rain,LOW,MEDIUM
+11,40,13,Sunday,Heavy Rain,MEDIUM,LOW
+26,26,14,Wednesday,Rain,LOW,LOW
+3,58,15,Saturday,Clear,LOW,LOW
+64,27,7,Wednesday,Clear,LOW,LOW
+15,53,4,Tuesday,Clear,LOW,LOW
+14,50,13,Thursday,Clear,LOW,LOW
+3,33,13,Thursday,Heavy Rain,LOW,LOW
+5,63,12,Thursday,Clear,LOW,LOW
+3,42,13,Friday,Rain,LOW,LOW
+5,53,15,Tuesday,Clear,LOW,LOW
+15,26,21,Saturday,Rain,LOW,LOW
+74,31,19,Friday,Clear,LOW,LOW
+20,48,0,Monday,Rain,LOW,LOW
+76,26,8,Thursday,Clear,LOW,LOW
+25,33,12,Wednesday,Rain,LOW,LOW
+54,31,15,Monday,Rain,LOW,LOW
+45,18,20,Monday,Rain,LOW,LOW
+24,48,6,Sunday,Clear,LOW,LOW
+24,57,21,Monday,Clear,LOW,LOW
+43,27,11,Tuesday,Rain,LOW,LOW
+107,7,9,Monday,Clear,LOW,LOW
+26,39,12,Thursday,Heavy Rain,LOW,LOW
+52,39,7,Monday,Rain,LOW,LOW
+68,25,18,Sunday,Clear,LOW,LOW
+25,33,2,Friday,Rain,LOW,LOW
+3,35,3,Thursday,Heavy Rain,LOW,LOW
+31,28,13,Tuesday,Rain,LOW,LOW
+18,41,15,Thursday,Clear,LOW,LOW
+57,28,7,Sunday,Heavy Rain,LOW,LOW
+80,20,18,Friday,Rain,LOW,MEDIUM
+14,42,5,Thursday,Clear,MEDIUM,LOW
+73,22,19,Saturday,Fog,LOW,LOW
+4,59,6,Monday,Clear,LOW,LOW
+56,24,7,Saturday,Clear,LOW,LOW
+3,57,0,Monday,Clear,LOW,LOW
+7,49,21,Friday,Clear,LOW,LOW
+16,42,23,Friday,Clear,LOW,LOW
+92,21,8,Tuesday,Clear,LOW,LOW
+98,19,17,Sunday,Rain,LOW,MEDIUM
+7,45,23,Friday,Heavy Rain,MEDIUM,LOW
+21,47,6,Wednesday,Clear,LOW,LOW
+108,10,17,Tuesday,Clear,LOW,LOW
+20,38,22,Tuesday,Rain,LOW,LOW
+81,24,18,Wednesday,Clear,LOW,LOW
+3,44,1,Wednesday,Heavy Rain,LOW,LOW
+16,44,15,Monday,Clear,LOW,LOW
+90,29,18,Wednesday,Clear,LOW,LOW
+3,44,13,Friday,Clear,LOW,LOW
+14,48,12,Thursday,Heavy Rain,LOW,LOW
+70,10,9,Friday,Rain,LOW,MEDIUM
+69,30,20,Tuesday,Clear,MEDIUM,LOW
+70,33,17,Monday,Clear,LOW,LOW
+17,54,15,Wednesday,Clear,LOW,LOW
+43,16,14,Monday,Rain,LOW,LOW
+92,21,18,Saturday,Fog,LOW,MEDIUM
+59,35,7,Saturday,Clear,MEDIUM,LOW
+3,36,1,Tuesday,Rain,LOW,LOW
+14,57,14,Monday,Clear,LOW,LOW
+71,30,8,Friday,Clear,LOW,LOW
+19,50,13,Saturday,Clear,LOW,LOW
+17,47,21,Sunday,Fog,LOW,LOW
+44,40,21,Sunday,Clear,LOW,LOW
+28,27,15,Friday,Rain,LOW,LOW
+36,38,13,Saturday,Fog,LOW,LOW
+27,47,13,Wednesday,Clear,LOW,LOW
+12,43,13,Saturday,Clear,LOW,LOW
+84,27,17,Monday,Clear,LOW,LOW
+41,37,12,Sunday,Clear,LOW,LOW
+95,24,17,Thursday,Clear,LOW,LOW
+31,44,15,Saturday,Clear,LOW,LOW
+7,48,4,Wednesday,Clear,LOW,LOW
+56,20,20,Friday,Rain,LOW,LOW
+123,5,17,Thursday,Clear,LOW,MEDIUM
+39,45,14,Monday,Rain,MEDIUM,LOW
+81,5,16,Saturday,Clear,LOW,LOW
+34,53,7,Thursday,Clear,LOW,LOW
+67,23,16,Saturday,Fog,LOW,LOW
+3,44,13,Wednesday,Heavy Rain,LOW,LOW
+3,48,23,Wednesday,Fog,LOW,LOW
+3,62,4,Thursday,Clear,LOW,LOW
+85,25,17,Thursday,Clear,LOW,LOW
+22,59,22,Tuesday,Clear,LOW,LOW
+3,28,1,Wednesday,Rain,LOW,LOW
+37,39,21,Sunday,Fog,LOW,LOW
+3,45,1,Tuesday,Clear,LOW,LOW
+3,57,14,Monday,Clear,LOW,LOW
+29,41,13,Sunday,Rain,LOW,LOW
+42,10,10,Friday,Rain,LOW,LOW
+68,5,17,Thursday,Heavy Rain,LOW,MEDIUM
+92,21,17,Monday,Rain,MEDIUM,MEDIUM
+85,19,7,Saturday,Clear,MEDIUM,LOW
+26,50,22,Sunday,Clear,LOW,LOW
+23,48,0,Monday,Clear,LOW,LOW
+3,60,13,Tuesday,Clear,LOW,LOW
+3,48,5,Tuesday,Clear,LOW,LOW
+10,48,21,Tuesday,Clear,LOW,LOW
+43,22,20,Wednesday,Clear,LOW,LOW
+28,41,14,Wednesday,Rain,LOW,LOW
+79,17,18,Wednesday,Rain,LOW,MEDIUM
+31,47,6,Thursday,Fog,MEDIUM,LOW
+19,45,11,Friday,Clear,LOW,LOW
+3,48,21,Thursday,Clear,LOW,LOW
+19,23,23,Monday,Heavy Rain,LOW,LOW
+61,35,7,Friday,Fog,LOW,LOW
+92,5,8,Saturday,Rain,LOW,MEDIUM
+52,16,20,Monday,Heavy Rain,MEDIUM,LOW
+32,55,1,Friday,Clear,LOW,LOW
+68,41,10,Saturday,Clear,LOW,LOW
+18,52,11,Friday,Clear,LOW,LOW
+38,29,15,Sunday,Clear,LOW,LOW
+49,32,14,Monday,Clear,LOW,LOW
+46,23,23,Saturday,Heavy Rain,LOW,LOW
+9,55,2,Sunday,Clear,LOW,LOW
+18,40,11,Saturday,Rain,LOW,LOW
+3,42,11,Monday,Rain,LOW,LOW
+85,26,10,Friday,Clear,LOW,LOW
+23,42,22,Wednesday,Rain,LOW,LOW
+91,28,9,Thursday,Clear,LOW,LOW
+42,34,12,Thursday,Clear,LOW,LOW
+85,5,17,Thursday,Clear,LOW,LOW
+33,29,20,Monday,Fog,LOW,LOW
+93,18,8,Monday,Rain,LOW,MEDIUM
+88,14,18,Monday,Clear,LOW,LOW
